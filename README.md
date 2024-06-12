@@ -8,7 +8,13 @@ There are soo many different job boards, each with their own job tracking featur
 
 This app will have to-do's for the day, addtional notes to yourself (and eventually these can be added/tied to any to-dos. It will also have a completed page where users can see finished items and or review their notes regarding those jobs.
 
+## Future things to get coded out 
 
+- Add a DB
+- Add redux
+- Link up the rest of components with db/state for persistence
+- Rework the pages and or sections to have a better flow when I iron out details on just how I want the app to be organized and viewed by users.
+- And more! ... 
 
 
 
