@@ -1,3 +1,17 @@
+# jobTaskApp
+
+This is an application to serve as a central hub for all of your job application efforts. 
+
+## Problem 
+
+There are soo many different job boards, each with their own job tracking features. I wanted to create one place where I could add details for all of my applications from any platform. From who I applied for, to additional notes about any job, to a list of things to get done for any given day. I am working to create this app as an alternative to just keeping a really long word doc with loads of different details. 
+
+This app will have to-do's for the day, addtional notes to yourself (and eventually these can be added/tied to any to-dos. It will also have a completed page where users can see finished items and or review their notes regarding those jobs.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
